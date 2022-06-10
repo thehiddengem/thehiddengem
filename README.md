@@ -25,3 +25,4 @@ thehiddengem/thehiddengem.Hi! 👋 I'm Hanna, a Web and Desktop app Developer, D
 
 ## Contact
 LinkedIn - "https://www.linkedin.com/in/hanna-puhachova/"
+Portfolio -
