@@ -26,5 +26,5 @@ thehiddengem/thehiddengem.Hi! 👋 I'm Hanna, a Web and Desktop app Developer, D
 
 ## Contact
 * LinkedIn - "https://www.linkedin.com/in/hanna-puhachova/"
-* Portfolio - in-progress, but you can check it our here 😊 https://github.com/thehiddengem/thehiddengem.gihub.io
+* Portfolio - in-progress, but you can check it our here 😊 [https://github.com/thehiddengem/thehiddengem.gihub.io](https://thehiddengem.github.io/)
 * Email - anniversary374@gmail.com
