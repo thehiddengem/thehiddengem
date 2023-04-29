@@ -17,7 +17,6 @@ Because I will be graduating in May 2023, I am looking for an internship in soft
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [MySQL](https://www.mysql.com/)
-* [PHP](https://www.php.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!---
