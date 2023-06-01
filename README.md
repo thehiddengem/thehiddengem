@@ -1,9 +1,11 @@
 
 ## Hello, my name is Hanna Puhachova. 
 
-I am pursuing my Bachelor's degree in Computer Science at UIC. 
+Software Engineer/Developer | Java | Python | C# | SQL | HTML/CSS/JavaScript | React | Dart | Flutter
 
-Because I will be graduating in May 2023, I am looking for an internship in software development or UI/UX design that will lead to a full-time position.
+Experienced and innovative Software Engineer/Developer proficient in Java, Python, C#, and SQL. Skilled in Agile and Scrum methodologies with a strong background in computer science. Specialized in mobile app and website development using HTML/CSS/JavaScript, React, Dart, and Flutter. Committed to delivering high-quality solutions and leveraging lean innovation techniques to create user-centric applications. Adept at collaborating with cross-functional teams and utilizing design thinking principles. Strong foundation in data structures, algorithms, and object-oriented programming. Adaptable and continuously learning to stay at the forefront of the industry.
+
+Let's connect!
 
 # Skills
 
