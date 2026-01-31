@@ -21,7 +21,7 @@ I currently work as a **Front End Developer / Designer**, building production fe
 ## Tech stack
 **Front-end:** HTML, CSS, JavaScript, jQuery, React, Next.js  
 **Back-end:** C#, ASP.NET, Node.js  
-**Data:** SQL, MySQL, MongoDB 
+**Data:** SQL, MySQL, MongoDB  
 **Tools:** Git, GitHub, Visual Studio, VS Code, Figma
 
 ## Let’s connect
