@@ -1,28 +1,33 @@
-## Hi, I’m Anna Puhachova 👋
+## Hi, I’m Anna Pugachova 👋
 
-I’m a software developer with a strong focus on building clean, practical, and user-friendly web applications. I work primarily on customer-facing features, improving existing systems, and turning complex requirements into reliable, usable interfaces.
+I’m a software developer focused on building clean, reliable, and user-friendly web and mobile applications. My strength is in front-end development with a solid foundation in UI/UX, accessibility, and real-world production systems.
 
-I currently work as a **Front End Developer / Designer**, building production features using ASP.NET, C#, JavaScript, SQL, and modern front-end practices, with an emphasis on UI/UX and accessibility.
+I currently work as a **Front End Developer / Designer**, building customer-facing features using ASP.NET, C#, JavaScript, SQL, and modern front-end practices. I also have hands-on experience developing **mobile applications** with Flutter and Android.
+
+Alongside my core work, I’m exploring **AI-powered features** and integrations, focusing on practical use cases that enhance user experience rather than experimental hype.
 
 ## What I do
-- Build and maintain real-world web applications
+- Build and maintain production web applications
 - Develop front-end features with JavaScript, HTML/CSS, and ASP.NET
-- Work closely with data, APIs, and SQL-driven UI components
-- Apply UI/UX and ADA accessibility standards
+- Create mobile applications using Flutter and Android
+- Work with SQL-backed data, APIs, and dynamic UI components
+- Apply UI/UX, mobile-first, and ADA accessibility standards
 - Collaborate in Agile/Scrum teams using Git
 
 ## Projects
-- This GitHub profile highlights my **code-based projects and experiments**
-- My **portfolio website** showcases selected projects with context, visuals, and explanations  
+- This GitHub profile contains **code-based projects and experiments**
+- My **portfolio website** highlights selected projects with visuals and context  
   👉 https://thehiddengem.github.io/
 
-(Older projects are being replaced with newer, more polished work.)
+(Older projects are gradually being replaced with newer, more polished work.)
 
 ## Tech stack
+**Languages:** Java, C#, JavaScript, Python, SQL  
 **Front-end:** HTML, CSS, JavaScript, jQuery, React, Next.js  
-**Back-end:** C#, ASP.NET, Node.js  
-**Data:** SQL, MySQL, MongoDB  
-**Tools:** Git, GitHub, Visual Studio, VS Code, Figma
+**Mobile:** Flutter, Dart, Android (Kotlin)  
+**Back-end:** ASP.NET, Node.js  
+**Design & UI:** Figma, Adobe XD, Adobe Creative Suite  
+**Tools:** Git, GitHub, Visual Studio, VS Code
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/hanna-puhachova/
