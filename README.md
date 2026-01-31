@@ -30,5 +30,5 @@ Alongside my core work, I’m exploring **AI-powered features** and integrations
 **Tools:** Git, GitHub, Visual Studio, VS Code
 
 ## Let’s connect
-- LinkedIn: https://www.linkedin.com/in/hanna-puhachova/
+- LinkedIn: https://www.linkedin.com/in/anna-pugachova/
 - Portfolio: https://thehiddengem.github.io/
