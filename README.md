@@ -1,31 +1,29 @@
+## Hi, I’m Anna Puhachova 👋
 
-## Hello, my name is Hanna Puhachova. 
+I’m a software developer with a strong focus on building clean, practical, and user-friendly web applications. I work primarily on customer-facing features, improving existing systems, and turning complex requirements into reliable, usable interfaces.
 
-Software Engineer/Developer | Java | Python | C# | SQL | HTML/CSS/JavaScript | React | Dart | Flutter
+I currently work as a **Front End Developer / Designer**, building production features using ASP.NET, C#, JavaScript, SQL, and modern front-end practices, with an emphasis on UI/UX and accessibility.
 
-Experienced and innovative Software Engineer/Developer proficient in Java, Python, C#, and SQL. Skilled in Agile and Scrum methodologies with a strong background in computer science. Specialized in mobile app and website development using HTML/CSS/JavaScript, React, Dart, and Flutter. Committed to delivering high-quality solutions and leveraging lean innovation techniques to create user-centric applications. Adept at collaborating with cross-functional teams and utilizing design thinking principles. Strong foundation in data structures, algorithms, and object-oriented programming. Adaptable and continuously learning to stay at the forefront of the industry.
+## What I do
+- Build and maintain real-world web applications
+- Develop front-end features with JavaScript, HTML/CSS, and ASP.NET
+- Work closely with data, APIs, and SQL-driven UI components
+- Apply UI/UX and ADA accessibility standards
+- Collaborate in Agile/Scrum teams using Git
 
-Let's connect!
+## Projects
+- This GitHub profile highlights my **code-based projects and experiments**
+- My **portfolio website** showcases selected projects with context, visuals, and explanations  
+  👉 https://thehiddengem.github.io/
 
-# Skills
+(Older projects are being replaced with newer, more polished work.)
 
-* [Java](https://www.java.com/en/)
-* [Python](https://www.python.org/)
-* [JavaScript](https://www.javascript.com/)
-* [Node](https://nodejs.org/en/)
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-* [HTML](https://html.com/)
-* [Electron](https://www.electronjs.org/)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [MySQL](https://www.mysql.com/)
+## Tech stack
+**Front-end:** HTML, CSS, JavaScript, jQuery, React, Next.js  
+**Back-end:** C#, ASP.NET, Node.js  
+**Data:** SQL, MySQL, MongoDB
+**Tools:** Git, GitHub, Visual Studio, VS Code, Figma
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!---
-thehiddengem/thehiddengem.Hi! 👋 I'm Hanna, a Web and Desktop app Developer, Designer & Creator.
---->
-
-## Contact
-* LinkedIn - "https://www.linkedin.com/in/hanna-puhachova/"
-* Portfolio - [https://github.com/thehiddengem/thehiddengem.gihub.io](https://thehiddengem.github.io/)
-* Email - anniversary374@gmail.com
+## Let’s connect
+- LinkedIn: https://www.linkedin.com/in/hanna-puhachova/
+- Portfolio: https://thehiddengem.github.io/
