@@ -1,8 +1,10 @@
 <h2>Hi, I’m Anna Pugachova 👋</h2>
 
 <p>
-I’m a <strong>Front-End / UX-focused engineer</strong> building clean, reliable, and user-centered web and mobile applications.
-My strengths are in front-end development, UI/UX design, accessibility, and working with real-world production systems.
+I’m a <strong>product-focused software engineer</strong> building clean, reliable, and user-centered
+web and mobile applications.
+My strengths are in front-end development and UI/UX, with solid experience working across
+backend systems, databases, and real-world production environments.
 </p>
 
 <p>
@@ -13,16 +15,17 @@ I also have hands-on experience developing <strong>mobile applications</strong> 
 
 <p>
 Alongside my core work, I’m exploring <strong>AI-powered features</strong> and integrations,
-with a focus on practical, user-centered use cases that enhance usability and decision-making
-rather than experimental hype.
+focusing on practical, user-centered use cases that improve clarity, usability,
+and decision-making rather than experimental hype.
 </p>
 
 <h2>What I do</h2>
 <ul>
   <li>Build and maintain production web applications with real-world user flows</li>
   <li>Develop front-end features using JavaScript, HTML/CSS, React, and ASP.NET</li>
+  <li>Design and implement backend-connected, data-driven interfaces</li>
   <li>Create mobile applications using Flutter and Android</li>
-  <li>Work with SQL-backed data, APIs, and dynamic UI components</li>
+  <li>Work with SQL-backed data, APIs, and application logic</li>
   <li>Apply UI/UX principles, mobile-first design, and ADA accessibility standards</li>
   <li>Collaborate in Agile/Scrum teams using Git</li>
 </ul>
@@ -31,8 +34,8 @@ rather than experimental hype.
 <ul>
   <li>This GitHub profile contains <strong>code-based projects and experiments</strong></li>
   <li>
-    My <strong>portfolio website</strong> highlights selected projects with visuals, UX context,
-    and walkthroughs<br />
+    My <strong>portfolio website</strong> highlights selected projects with visuals,
+    UX context, and walkthroughs<br />
     👉 <a href="https://thehiddengem.github.io/" target="_blank">https://thehiddengem.github.io/</a>
   </li>
 </ul>
