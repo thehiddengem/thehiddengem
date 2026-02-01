@@ -1,8 +1,8 @@
 <h2>Hi, I’m Anna Pugachova 👋</h2>
 
 <p>
-I’m a software developer focused on building clean, reliable, and user-centered web and mobile applications.
-My strength is in front-end development with a solid foundation in UI/UX, accessibility, and real-world production systems.
+I’m a <strong>Front-End / UX-focused engineer</strong> building clean, reliable, and user-centered web and mobile applications.
+My strengths are in front-end development, UI/UX design, accessibility, and working with real-world production systems.
 </p>
 
 <p>
@@ -54,13 +54,13 @@ rather than experimental hype.
 <h2>Let’s connect</h2>
 <ul>
   <li>
-    LinkedIn:
+    <strong>LinkedIn:</strong>
     <a href="https://www.linkedin.com/in/anna-pugachova/" target="_blank">
       https://www.linkedin.com/in/anna-pugachova/
     </a>
   </li>
   <li>
-    Portfolio:
+    <strong>Portfolio:</strong>
     <a href="https://thehiddengem.github.io/" target="_blank">
       https://thehiddengem.github.io/
     </a>
