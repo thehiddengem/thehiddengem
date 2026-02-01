@@ -1,34 +1,68 @@
-## Hi, I’m Anna Pugachova 👋
+<h2>Hi, I’m Anna Pugachova 👋</h2>
 
-I’m a software developer focused on building clean, reliable, and user-friendly web and mobile applications. My strength is in front-end development with a solid foundation in UI/UX, accessibility, and real-world production systems.
+<p>
+I’m a software developer focused on building clean, reliable, and user-centered web and mobile applications.
+My strength is in front-end development with a solid foundation in UI/UX, accessibility, and real-world production systems.
+</p>
 
-I currently work as a **Front End Developer / Designer**, building customer-facing features using ASP.NET, C#, JavaScript, SQL, and modern front-end practices. I also have hands-on experience developing **mobile applications** with Flutter and Android.
+<p>
+I currently work as a <strong>Front End Developer / Designer</strong>, building customer-facing features using
+ASP.NET, C#, JavaScript, SQL, and modern front-end practices.
+I also have hands-on experience developing <strong>mobile applications</strong> with Flutter and Android.
+</p>
 
-Alongside my core work, I’m exploring **AI-powered features** and integrations, focusing on practical use cases that enhance user experience rather than experimental hype.
+<p>
+Alongside my core work, I’m exploring <strong>AI-powered features</strong> and integrations,
+with a focus on practical, user-centered use cases that enhance usability and decision-making
+rather than experimental hype.
+</p>
 
-## What I do
-- Build and maintain production web applications
-- Develop front-end features with JavaScript, HTML/CSS, and ASP.NET
-- Create mobile applications using Flutter and Android
-- Work with SQL-backed data, APIs, and dynamic UI components
-- Apply UI/UX, mobile-first, and ADA accessibility standards
-- Collaborate in Agile/Scrum teams using Git
+<h2>What I do</h2>
+<ul>
+  <li>Build and maintain production web applications with real-world user flows</li>
+  <li>Develop front-end features using JavaScript, HTML/CSS, React, and ASP.NET</li>
+  <li>Create mobile applications using Flutter and Android</li>
+  <li>Work with SQL-backed data, APIs, and dynamic UI components</li>
+  <li>Apply UI/UX principles, mobile-first design, and ADA accessibility standards</li>
+  <li>Collaborate in Agile/Scrum teams using Git</li>
+</ul>
 
-## Projects
-- This GitHub profile contains **code-based projects and experiments**
-- My **portfolio website** highlights selected projects with visuals and context  
-  👉 https://thehiddengem.github.io/
+<h2>Projects</h2>
+<ul>
+  <li>This GitHub profile contains <strong>code-based projects and experiments</strong></li>
+  <li>
+    My <strong>portfolio website</strong> highlights selected projects with visuals, UX context,
+    and walkthroughs<br />
+    👉 <a href="https://thehiddengem.github.io/" target="_blank">https://thehiddengem.github.io/</a>
+  </li>
+</ul>
 
-(Older projects are gradually being replaced with newer, more polished work.)
+<p>
+(Older projects are intentionally being replaced with newer, more polished and product-focused work.)
+</p>
 
-## Tech stack
-**Languages:** Java, C#, JavaScript, Python, SQL  
-**Front-end:** HTML, CSS, JavaScript, jQuery, React, Next.js  
-**Mobile:** Flutter, Dart, Android (Kotlin)  
-**Back-end:** ASP.NET, Node.js  
-**Design & UI:** Figma, Adobe XD, Adobe Creative Suite  
-**Tools:** Git, GitHub, Visual Studio, VS Code
+<h2>Tech stack</h2>
+<p>
+<strong>Languages:</strong> Java, C#, JavaScript, Python, SQL<br />
+<strong>Front-end:</strong> HTML, CSS, JavaScript, jQuery, React, Next.js<br />
+<strong>Mobile:</strong> Flutter, Dart, Android (Kotlin)<br />
+<strong>Back-end:</strong> ASP.NET, Node.js<br />
+<strong>Design &amp; UI:</strong> Figma, Adobe XD, Adobe Creative Suite<br />
+<strong>Tools:</strong> Git, GitHub, Visual Studio, VS Code
+</p>
 
-## Let’s connect
-- LinkedIn: https://www.linkedin.com/in/anna-pugachova/
-- Portfolio: https://thehiddengem.github.io/
+<h2>Let’s connect</h2>
+<ul>
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/anna-pugachova/" target="_blank">
+      https://www.linkedin.com/in/anna-pugachova/
+    </a>
+  </li>
+  <li>
+    Portfolio:
+    <a href="https://thehiddengem.github.io/" target="_blank">
+      https://thehiddengem.github.io/
+    </a>
+  </li>
+</ul>
